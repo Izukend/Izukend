@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-# English
 
 - 🔭 I’m currently working on my portfolio and my project C02mon  with my team
 - 🌱 I’m currently learning tailwindcss
